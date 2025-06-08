@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   </div>
 
-  <h3 align="center">Chat-App - Real-Time Messaging with React & Socket.IO</h3>
+  <h3 align="center">Chatty - Real-Time Messaging with React & Socket.IO</h3>
 
   <div align="center">
     Build this project step by step with our detailed video walkthrough on <a href="https://drive.google.com/file/d/185d9dGOogOhS61nqRO627Pz6akyeYz_z/view?usp=sharing" target="_blank"><b>Google Drive</b></a>. Join the conversation!
